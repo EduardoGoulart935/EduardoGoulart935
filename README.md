@@ -3,7 +3,9 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=EduardoGoulart935&show_icons=true&theme=radical" />
 </a>
-
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardoGoulart935&layout=compact&langs_count=8&card_width=320&theme=radical" />
+</a>
 </div>
 
 <div style="display: inline_block"><br>
