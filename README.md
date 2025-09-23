@@ -7,7 +7,6 @@
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardoGoulart935&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 </div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
